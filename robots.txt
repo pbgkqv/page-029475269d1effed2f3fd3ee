@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-78b20cbad1.kylinyun.cn/sitemap.xml
